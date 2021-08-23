@@ -1,0 +1,22 @@
+.container{
+    border: 5px solid green;
+}
+
+.box-1{
+    min-height: 250px;
+    background-color: yellow;
+}
+
+.box-2 {
+    min-height: 250px;
+    background-color: burlywood;
+}
+
+.box-3 {
+    min-height: 250px;
+    background-color: blueviolet;
+}
+
+.row {
+    border: 10px solid burlywood;
+}
